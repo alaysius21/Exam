@@ -1,0 +1,37 @@
+[
+    {
+        "income": [
+            {
+                "rental_income": 0,
+                "self_employed_income": 150000,
+                "gross_annual_income": 70000,
+                "income_tax": 12137,
+                "medicare_levy": 1400,
+                "negative_gearing_tax_effect": 0,
+                "self_employed_add_backs": 50000
+            }
+        ],
+        "net_annual_income": 56463,
+        "liability_repayments": [
+            {
+                "type": "credit_card",
+                "total_repayments": 3000
+            },
+            {
+                "type": "personal_loan",
+                "total_repayments": 5000
+            }
+        ],
+        "home_loans": [
+            {
+                "assessment_rate": 5.1,
+                "total_repayments": 1629
+            }
+        ],
+        "total_existing_repayments": 8000,
+        "total_proposed_repayments": 24300.00,
+        "net_cash_position": 76.25,
+        "debt_to_income_ratio": 4.29,
+        "maximum_borrowing_capacity": 314025
+    }
+]

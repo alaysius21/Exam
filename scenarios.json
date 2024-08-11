@@ -1,0 +1,91 @@
+[
+    {
+        "households": [
+            {
+                "num_adults": 1,
+                "num_dependants": 0,
+                "postcode": 2030
+            }
+        ],
+        "income": [
+            {
+                "which_household": 0,
+                "payg": 70000,
+                "commission": 0,
+                "bonus": 0,
+                "overtime": 3000,
+                "essential_worker_overtime": 0,
+                "pension": 25000,
+                "annuities": 0,
+                "foreign_income": 0,
+                "investment_income": 0,
+                "interest_income": 0,
+                "car_allowance": 0,
+                "second_job": 0,
+                "social_security": 0,
+                "other_taxed": 0,
+                "other_tax_free": 1000,
+                "pre_tax_deductions": 0,
+                "post_tax_deductions": 0,
+                "HECS": false,
+                "HECS_balance": 0
+            }
+        ],
+        "rental_income": [],
+        "self_employed_income": [
+            {
+                "most_recent_year_details": {
+                    "net_profit_before_tax": 150000,
+                    "personal_wages_before_tax": [50000]
+                }
+            }
+        ],
+        "home_loans": [
+            {
+                "product_type": "variable-rate",
+                "existing_or_proposed": "proposed",
+                "loan_type": "owner_occupied",
+                "loan_amount": 300000,
+                "actual_rate": 2.0,
+                "term": 30,
+                "interest_only_period": 0
+            }
+        ],
+       "liabilities": [
+            {
+                "type": "credit_card",
+                "total_repayments": 3000
+            },
+            {
+                "type": "personal_loan",
+                "total_repayments": 5000
+            }
+        ],
+        "living_expenses": [
+            {
+                "primary_residence": 3000,
+                "phone_internet_media": 0,
+                "food_and_groceries": 0,
+                "recreation_and_holidays": 0,
+                "clothing_and_personal_care": 0,
+                "medical_and_health": 0,
+                "transport": 0,
+                "public_education": 0,
+                "higher_education_and_vocational_training": 0,
+                "childcare": 0,
+                "general_insurance": 0,
+                "other_insurance": 0,
+                "other": 0,
+                "strata_fees_and_body_corporate_fees": 0,
+                "private_non_government_school_fees": 0,
+                "child_support_maintenance_payments": 0,
+                "life_accident_illness_insurance": 0,
+                "investment_property": 0,
+                "secondary_residence_costs": 0,
+                "ongoing_rent": 0,
+                "use_notional_rent": false,
+                "ongoing_board": 0
+            }
+        ]
+    }
+]
