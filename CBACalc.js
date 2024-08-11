@@ -3,6 +3,7 @@
 const calculateResults = (scenario, index) => {
     // Extracting data from the scenario
     const { income, home_loans, self_employed_income, liabilities } = scenario;
+    //TEST
 
     // 1. Calculate Gross Annual Income
     const grossAnnualIncome = income.reduce((acc, curr) => acc + curr.payg, 0);
